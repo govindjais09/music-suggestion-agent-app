@@ -14,11 +14,8 @@ This application is designed to provide users with personalized music suggestion
 3. Provides real-time suggestions to the user.
 
 ## Technologies Used
-- JavaScript
-- Node.js
-- Express
-- React
-- MongoDB
+- python 
+- phidata
 
 ## Getting Started
 To get a local copy up and running follow these simple steps:
