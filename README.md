@@ -17,20 +17,4 @@ This application is designed to provide users with personalized music suggestion
 - python 
 - phidata
 
-## Getting Started
-To get a local copy up and running follow these simple steps:
-1. Clone the repo
-   ```sh
-   git clone https://github.com/govindjais09/music-suggestion-agent-app.git
-   ```
-2. Install the necessary packages
-   ```sh
-   npm install
-   ```
-3. Start the application
-   ```sh
-   npm start
-   ```
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
