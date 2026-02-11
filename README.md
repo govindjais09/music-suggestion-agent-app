@@ -6,8 +6,7 @@ This application is designed to provide users with personalized music suggestion
 - User-friendly interface for easy navigation
 - Integrates with various music APIs to fetch recommendations
 - Provides an option to save favorite tracks and playlists
-- Allows users to rate songs to improve future suggestions
-
+  
 ## How It Works
 1. User inputs their music preferences.
 2. The application analyzes data from music sources.
